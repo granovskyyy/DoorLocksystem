@@ -10,11 +10,12 @@ A simple door locking system designed in LabView
 - LabView 2025 Q3 version 
 
 ### Project structure
-README
--doorlock.vi 
+- README
+- doorlock.vi 
 	- front panel 
-	-block diagram 
-(To switch beetween block diagram and front panel use Crtl+E in LabView)
+	- block diagram 
+### Notes
+To switch beetween block diagram and front panel use Crtl+E in LabView
 
 
 
